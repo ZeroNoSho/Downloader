@@ -1,0 +1,351 @@
+.text-center {
+  text-align: center;
+}
+.cm1 {
+  margin-top: 30px;
+}
+.cursor {
+  cursor: pointer;
+}
+.mystyle{
+  display: none !important;
+}
+.inputsizing {
+  box-sizing: border-box;
+  display: block !important;
+  margin: auto;
+  width: 1000px !important;
+}
+.cd1 {
+  margin-bottom: 70px !important;
+}
+.swal2-styled.swal2-confirm {
+  width: 100%;
+  background-color: hsl(171, 100%, 41%);
+}
+.swal2-actions {
+  width: 30%;
+}
+.columnbox {
+  padding-bottom: 40px;
+  margin: auto !important;
+  width: 80% !important;
+}
+.box {
+  padding-bottom: 50px !important;
+  padding-top: 10px !important;
+}
+.center {
+  margin: auto;
+  width: 90%;
+}
+.m-2 {
+  text-align: center !important;
+}
+.heros {
+  margin: auto;
+  width: 40% !important;
+  margin-bottom: 20px;
+}
+.m-1 {
+  width: 250px;
+}
+.download {
+  position: absolute !important;
+  width: auto;
+  height: 40px !important;
+  top: 4px;
+  border-radius: 50px !important;
+  right: 177px;
+}
+.video {
+  display: block;
+  margin: auto;
+}
+.swal2-popup {
+  width: 70%;
+}
+.Swiper {
+  margin: 30px auto;
+  width: 100%;
+}
+.adsadsad {
+  margin: auto !important;
+  display: block !important;
+}
+.adsasd {
+  margin-bottom: 35px;
+}
+.ari {
+  font-family: "Aboreto", cursive;
+  font-family: "Anek Telugu", sans-serif;
+  font-size: 30px;
+  color: hsl(171, 100%, 41%);
+  font-weight: 700;
+}
+.tr {
+  padding-top: 20px;
+}
+.tables {
+  border: none !important;
+  width: 100%;
+}
+.navbar {
+  margin: 0px 70px !important;
+}
+.calorlike {
+  font-size: xx-large;
+  color: hsl(171, 100%, 41%);
+}
+.dis {
+  bottom: 50%;
+  position: fixed;
+  z-index: 2;
+}
+.werwerw {
+  margin: 20px;
+}
+@media (min-width: 991px) and (max-width: 1300px) {
+  .control {
+    margin: auto;
+    width: 90%;
+  }
+  .download {
+    position: absolute !important;
+    width: auto;
+    height: 40px !important;
+    top: 4px;
+    border-radius: 50px !important;
+    right: 10px;
+  }
+  .columns {
+    display: block !important;
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+    margin-top: 0rem !important;
+  }
+  .columnbox {
+    width: 100% !important;
+  }
+}
+@media (min-width: 701px) and (max-width: 990px) {
+  .dis {
+    bottom: 60%;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.386);
+    z-index: 2;
+  }
+  .heros {
+    margin: auto;
+    width: 80% !important;
+    margin-bottom: 20px;
+  }
+  .control {
+    margin: auto;
+    width: 90%;
+  }
+  .title.is-1 {
+    font-size: xx-large !important;
+  }
+  .subtitle {
+    font-size: medium !important;
+  }
+  .navbar {
+    margin: 0px !important;
+  }
+  .download {
+    position: absolute !important;
+    width: auto;
+    height: 40px !important;
+    top: 4px;
+    border-radius: 50px !important;
+    right: 10px;
+  }
+  .columns {
+    display: block !important;
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+    margin-top: 0rem !important;
+  }
+  .swal2-popup {
+    width: 100%;
+  }
+  .columnbox {
+    width: 100% !important;
+  }
+}
+@media (min-width: 400px) and (max-width: 700px) {
+  .dis {
+    bottom: 60%;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.386);
+    z-index: 2;
+  }
+  .video {
+    height: 100% !important;
+    width: 100% !important;
+  }
+  .columnbox {
+    width: 100% !important;
+  }
+  .heros {
+    margin: auto;
+    width: 80% !important;
+    margin-bottom: 20px;
+  }
+  .control {
+    margin: auto;
+    width: 90%;
+  }
+  .ari {
+    text-align: center;
+  }
+  .ari1 {
+    padding-left: 10px;
+    text-align: center !important;
+    display: block;
+  }
+  .title.is-1 {
+    font-size: xx-large !important;
+  }
+  .subtitle {
+    font-size: medium !important;
+  }
+  .navbar {
+    margin: 0px !important;
+  }
+  .download {
+    position: absolute !important;
+    width: auto;
+    height: 40px !important;
+    top: 4px;
+    border-radius: 50px !important;
+    right: 10px;
+  }
+  .columns {
+    display: block !important;
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+    margin-top: 0rem !important;
+  }
+  .swal2-popup {
+    width: 100%;
+  }
+}
+@media (min-width: 341px) and (max-width: 400px) {
+  .dis {
+    bottom: 60%;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.386);
+    z-index: 2;
+  }
+  .video {
+    height: 100% !important;
+    width: 100% !important;
+  }
+  .columnbox {
+    width: 100% !important;
+  }
+  .heros {
+    margin: auto;
+    width: 80% !important;
+    margin-bottom: 20px;
+  }
+  .control {
+    margin: auto;
+    width: 90%;
+  }
+  .ari {
+    text-align: center;
+  }
+  .ari1 {
+    padding-left: 10px;
+    text-align: center !important;
+    display: block;
+  }
+  .title.is-1 {
+    font-size: xx-large !important;
+  }
+  .subtitle {
+    font-size: medium !important;
+  }
+  .navbar {
+    margin: 0px !important;
+  }
+  .download {
+    position: absolute !important;
+    width: auto;
+    height: 40px !important;
+    top: 4px;
+    border-radius: 50px !important;
+    right: 10px;
+  }
+  .columns {
+    display: block !important;
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+    margin-top: 0rem !important;
+  }
+  .swal2-popup {
+    width: 100%;
+  }
+}
+@media (min-width: 200px) and (max-width: 340px) {
+  .dis {
+    bottom: 60%;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.386);
+    z-index: 2;
+  }
+  .columnbox {
+    width: 100% !important;
+  }
+  .video {
+    height: 100% !important;
+    width: 100% !important;
+  }
+  .heros {
+    margin: auto;
+    width: 80% !important;
+    margin-bottom: 20px;
+  }
+  .columns {
+    display: block !important;
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+    margin-top: 0rem !important;
+  }
+  .ari {
+    text-align: center;
+  }
+  .ari1 {
+    padding-left: 10px;
+    text-align: center !important;
+    display: block;
+  }
+  .title.is-1 {
+    font-size: xx-large !important;
+  }
+  .subtitle {
+    font-size: small !important;
+  }
+  .navbar {
+    margin: 0px !important;
+  }
+  .download {
+    position: absolute !important;
+    width: auto;
+    height: 40px !important;
+    top: 4px;
+    border-radius: 50px !important;
+    right: 10px;
+  }
+  .columns {
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+    margin-top: 0rem !important;
+  }
+  .swal2-popup {
+    width: 100%;
+  }
+}
