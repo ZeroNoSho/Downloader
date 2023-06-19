@@ -7,7 +7,7 @@ function Foot() {
         <div className="columns">
           <div className="column">
             <h1 className="ari">Downloader</h1>
-            <p className="ari1">Copyright © 2022. Ari Rachman</p>
+            <p className="ari1">Copyright © 2022. Ari Rachman & Markus Situmorang</p>
           </div>
           <div className="column">
             <table className="tables">
